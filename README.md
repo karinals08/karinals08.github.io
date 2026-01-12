@@ -18,10 +18,8 @@ This analysis uses two primary datasets. The applicant dataset includes applican
 - Analysis of applicant records shows that % of applicants have incomplete submissions, such as missing credits earned, inaccurate GPA, or missing GPA earned. Among these applicants, % are missing information. Identifying the specific missing item allows admissions team to target communications and ensure applicants recieve clear guidance on next steps. 
 
 # Recommendations & Next Steps
-- Prioritize contacting applicants who are missing key documents to increase completion rates and readiness.
+- Prioritize contacting applicants who are missing key documents to increase completion rates and readiness. Segment emails by missing item type and program for clarity.
 
 - Provide additional advising or resources to help first-gen students and answer any quesetions regarding the application process.
   
-- Offer webinars or checklist to help with the application process and to increase preparedness.
-
-- Track the effectiveness of emails or outreach interventions by finding the percentage of applicants completing missing items after outreach
+- Offer webinars or checklist to help with the application process and to increase preparedness. Afterwards, track the effectiveness of emails or outreach interventions by finding the percentage of applicants completing missing items after outreach
