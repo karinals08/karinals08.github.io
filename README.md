@@ -9,13 +9,13 @@ This analysis uses two primary datasets. The applicant dataset includes applican
 # Summary of Insights 
 
 ## Equity-Focused
--Ammong applicants to (program name), % meet the GPA and eligibility requirements. of these, % are first-generation students, highlighting the importance of monitoring equity and support for this population. This analysis, identifies both the overall readiness of applicants to the program adn the relative preparedness of first-generation students.
+- Among applicants to (program name), % meet the GPA and eligibility requirements. of these, % are first-generation students, highlighting the importance of monitoring equity and support for this population. This analysis, identifies both the overall readiness of applicants to the program adn the relative preparedness of first-generation students.
 
 ## GPA Eligibility by Citizenship Status
--Found that domestic applicants met GPA requirements at a higher rate than international applications. This indicates a potential need for earlier academic screening or targeted advising for international applicants 
+- Found that domestic applicants met GPA requirements at a higher rate than international applications. This indicates a potential need for earlier academic screening or targeted advising for international applicants 
 
 ## Applicant Missing Information and Outreach Needs
--Analysis of applicant records shows that % of applicants have incomplete submissions, such as missing credits earned, inaccurate GPA, or missing GPA earned. Among these applicants, % are missing information. Identifying the specific missing item allows admissions team to target communications and ensure applicants recieve clear guidance on next steps. 
+- Analysis of applicant records shows that % of applicants have incomplete submissions, such as missing credits earned, inaccurate GPA, or missing GPA earned. Among these applicants, % are missing information. Identifying the specific missing item allows admissions team to target communications and ensure applicants recieve clear guidance on next steps. 
 
 # Recommendations & Next Steps
 - Prioritize
