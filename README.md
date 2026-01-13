@@ -3,11 +3,7 @@
 ## Applicant Project Overview
 Analyzing applicant and academic records submitted by students applying for an MS in Computer Science/Education. The analysis provides results that highlight which applicants/applicant groups are ready for next academic steps and which require additional documentation.
 
-[ Equity Focused Analysis – Title ]
 
-[ Chart 1: First-Gen GPA ]   [ Chart 2: Citizenship GPA ]
-
-[ Small Summary Table ]      [ Chart 3 (optional): Program GPA ]
 
  ## Applicant Metrics and Dimensions
 This analysis uses two primary datasets. The applicant dataset includes applicant ID, citizenship status, program applied, application term, and first-generation status. Tha academic dataset includes applicant ID, institution name, degree status, GPA, GPA scale, credits eanred, graudation year, and GPA eligibility indicators. Applicant ID was used as a unique key to integrate the two datasets. 
