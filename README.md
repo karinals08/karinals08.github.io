@@ -3,6 +3,7 @@
 ## Applicant Project Overview
 Analyzing applicant and academic records submitted by students applying for an MS in Computer Science/Education. The analysis provides results that highlight which applicants/applicant groups are ready for next academic steps and which require additional documentation.
 
+<img width="897" height="461" alt="dashboard_sc" src="https://github.com/user-attachments/assets/9e5a8037-420c-4e88-a6ec-675bc4c536f5" />
 
 
  ## Applicant Metrics and Dimensions
